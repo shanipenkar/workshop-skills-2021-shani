@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-file2
-=======
-file2 second
->>>>>>> 3c350ec (commit b2-1)
